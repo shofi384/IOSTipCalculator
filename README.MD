@@ -2,7 +2,7 @@
 
 **TipCalculator** is a tip calculator application for iOS.
 
-Submitted by: **Shofiqur Rahman*
+Submitted by: **Shofiqur Rahman**
 
 Time spent: **3** hours spent in total
 
@@ -23,7 +23,7 @@ The following **additional** feature is implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/shofi384/IOSTipCalculator/blob/master/TipCalculator.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
