@@ -14,6 +14,7 @@
 		C809CD7D20BAA9F100109858 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C809CD7B20BAA9F100109858 /* LaunchScreen.storyboard */; };
 		C809CD8820BAA9F100109858 /* TipCalculatorTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C809CD8720BAA9F100109858 /* TipCalculatorTests.swift */; };
 		C809CD9320BAA9F100109858 /* TipCalculatorUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C809CD9220BAA9F100109858 /* TipCalculatorUITests.swift */; };
+		C81CAFB720C119C0009A0B9D /* SettingsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = C81CAFB620C119C0009A0B9D /* SettingsViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C809CD8E20BAA9F100109858 /* TipCalculatorUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TipCalculatorUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C809CD9220BAA9F100109858 /* TipCalculatorUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TipCalculatorUITests.swift; sourceTree = "<group>"; };
 		C809CD9420BAA9F100109858 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C81CAFB620C119C0009A0B9D /* SettingsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SettingsViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +102,7 @@
 				C809CD7220BAA9F000109858 /* AppDelegate.swift */,
 				C809CD7420BAA9F000109858 /* ViewController.swift */,
 				C809CD7620BAA9F000109858 /* Main.storyboard */,
+				C81CAFB620C119C0009A0B9D /* SettingsViewController.swift */,
 				C809CD7920BAA9F100109858 /* Assets.xcassets */,
 				C809CD7B20BAA9F100109858 /* LaunchScreen.storyboard */,
 				C809CD7E20BAA9F100109858 /* Info.plist */,
@@ -258,6 +261,7 @@
 			files = (
 				C809CD7520BAA9F000109858 /* ViewController.swift in Sources */,
 				C809CD7320BAA9F000109858 /* AppDelegate.swift in Sources */,
+				C81CAFB720C119C0009A0B9D /* SettingsViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
